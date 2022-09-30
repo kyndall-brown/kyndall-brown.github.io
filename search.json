@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "kyndall-brown.github.io.html",
+    "href": "kyndall-brown.github.io.html",
+    "title": "kyndall-brown.github.io",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "plot(Titanic)"
+  },
+  {
+    "objectID": "assign01.html",
+    "href": "assign01.html",
+    "title": "Assignment 1: Generative Leaf",
+    "section": "",
+    "text": "Fall leaf"
+  },
+  {
+    "objectID": "assign02.html",
+    "href": "assign02.html",
+    "title": "Assignment 2",
+    "section": "",
+    "text": "Paul Murrell charts"
+  },
+  {
+    "objectID": "assign03.html",
+    "href": "assign03.html",
+    "title": "Assignment 3",
+    "section": "",
+    "text": "Working on itttt"
+  },
+  {
+    "objectID": "assign04.html",
+    "href": "assign04.html",
+    "title": "Assignment 4",
+    "section": "",
+    "text": "Working on itttt"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kyndall Brown",
+    "section": "",
+    "text": "Data adventures are posted here.\n\\(y=\\alpha+\\beta{x}^2\\)\n\npar(family=\"sans\")\nplot(iris, pch=5, cex=.55, col=\"forestgreen\")"
+  }
+]
