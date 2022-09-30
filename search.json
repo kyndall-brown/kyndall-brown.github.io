@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "kyndall-brown.github.io.html",
-    "href": "kyndall-brown.github.io.html",
-    "title": "kyndall-brown.github.io",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -47,5 +40,12 @@
     "title": "Kyndall Brown",
     "section": "",
     "text": "Data adventures are posted here.\n\\(y=\\alpha+\\beta{x}^2\\)\n\npar(family=\"sans\")\nplot(iris, pch=5, cex=.55, col=\"forestgreen\")"
+  },
+  {
+    "objectID": "kyndall-brown.github.io.html",
+    "href": "kyndall-brown.github.io.html",
+    "title": "kyndall-brown.github.io",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
   }
 ]
