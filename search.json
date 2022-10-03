@@ -2,23 +2,23 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "plot(Titanic)"
+    "text": "I am a current M.S. Econ student and aspiring data analyst. My interests are in labor markets and political science."
   },
   {
     "objectID": "assign01.html",
     "href": "assign01.html",
-    "title": "Assignment 1: Generative Leaf",
+    "title": "Assignment 1: Generative Leaves",
     "section": "",
-    "text": "Fall leaf"
+    "text": "After running the code, it created this leaf:\n\n\n\nBlueviolet Leaf\n\n\nI created a few more leaves by changing the code. For my next leaf, I changed the color to sienna2 and altered the code like this:\n{angle=20} depth=6\nThe resulting leaf looked like this:\n\n\n\nSienna2 Leaf\n\n\nIt’s interesting how the rest of the leaf was unchanged by it added this extra leaf on the side, I didn’t expect that!\nI made one final leaf by changing the color to lightcyan and altering the code like this:\n{axiom=“X”} rules=list(“X”=“F-[[X]+X]+F[+FX]-X”, “F”=“FF+1”) angle=23 depth=7\nI changed the angle to 23, but also the depth to 7 and added +1 to “F” in the axiom variable. The result was shocking:\n\n\n\nLight Cyan Leaf\n\n\nIt’s amazing how a simple change can produce such large effects!"
   },
   {
     "objectID": "assign02.html",
     "href": "assign02.html",
     "title": "Assignment 2",
     "section": "",
-    "text": "Paul Murrell charts"
+    "text": "HPI Index vs. Life Expectancy\n\n\n\n\n\nCountries by Continent"
   },
   {
     "objectID": "assign03.html",
@@ -32,20 +32,27 @@
     "href": "assign04.html",
     "title": "Assignment 4",
     "section": "",
-    "text": "Working on itttt"
+    "text": "Thanks to my team: Leslie, Ana, Theophilus, Michelle and myself. Shoutout to Michelle for staying up late and working hard, and to Leslie for making the final breakthrough that led to our finished charts!"
+  },
+  {
+    "objectID": "assign05.html",
+    "href": "assign05.html",
+    "title": "assign05",
+    "section": "",
+    "text": "Working on ittt"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kyndall Brown",
     "section": "",
-    "text": "Data adventures are posted here.\n\\(y=\\alpha+\\beta{x}^2\\)\n\npar(family=\"sans\")\nplot(iris, pch=5, cex=.55, col=\"forestgreen\")"
+    "text": "Welcome to my website! Data adventures are posted here.\nPlease use the navigation bar at the top to see my assignments and my blog!\nI (am supposed to) update regularly, so stay posted <3"
   },
   {
     "objectID": "kyndall-brown.github.io.html",
     "href": "kyndall-brown.github.io.html",
     "title": "kyndall-brown.github.io",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "This is the landing page for my Github Website!"
   }
 ]

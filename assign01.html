@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Kyndall Brown - Assignment 1: Generative Leaf</title>
+<title>Kyndall Brown - Assignment 1: Generative Leaves</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -90,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-assignments">    
         <li>
     <a class="dropdown-item" href="./assign01.html">
- <span class="dropdown-text">Assignment 1: Generative Leaf</span></a>
+ <span class="dropdown-text">Assignment 1: Generative Leaves</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./assign02.html">
@@ -104,10 +104,14 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./assign04.html">
  <span class="dropdown-text">Assignment 4</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./assign05.html">
+ <span class="dropdown-text">assign05</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://kyndall-brown.github.io/blog">blog</a>
+    <a class="nav-link" href="https://kyndall-brown.github.io/blog">Blog</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -127,7 +131,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Assignment 1: Generative Leaf</h1>
+<h1 class="title">Assignment 1: Generative Leaves</h1>
 </div>
 
 
@@ -141,13 +145,34 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>My Fall leaf:</p>
+<p>I made a few pieces of generative art using this code: https://fronkonstin.com</p>
+<p>After running the code, it created this leaf:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="fall.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Fall leaf</figcaption><p></p>
+<p><img src="blueviolet_leaf.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Blueviolet Leaf</figcaption><p></p>
 </figure>
 </div>
+<p>I created a few more leaves by changing the code. For my next leaf, I changed the color to sienna2 and altered the code like this:</p>
+<p>{angle=20} depth=6</p>
+<p>The resulting leaf looked like this:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="sienna2_leaf.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Sienna2 Leaf</figcaption><p></p>
+</figure>
+</div>
+<p>It’s interesting how the rest of the leaf was unchanged by it added this extra leaf on the side, I didn’t expect that!</p>
+<p>I made one final leaf by changing the color to lightcyan and altering the code like this:</p>
+<p>{axiom=“X”} rules=list(“X”=“F-[[X]+X]+F[+FX]-X”, “F”=“FF+1”) angle=23 depth=7</p>
+<p>I changed the angle to 23, but also the depth to 7 and added +1 to “F” in the axiom variable. The result was shocking:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="lightcyan_leaf.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Light Cyan Leaf</figcaption><p></p>
+</figure>
+</div>
+<p>It’s amazing how a simple change can produce such large effects!</p>
 
 
 
