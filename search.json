@@ -9,7 +9,7 @@
   {
     "objectID": "assign01.html",
     "href": "assign01.html",
-    "title": "Assignment 1: Generative Leaves",
+    "title": "Assignment 1",
     "section": "",
     "text": "After running the code, it created this leaf:\n\n\n\nBlueviolet Leaf\n\n\nI created a few more leaves by changing the code. For my next leaf, I changed the color to sienna2 and altered the code like this:\n{angle=20} depth=6\nThe resulting leaf looked like this:\n\n\n\nSienna2 Leaf\n\n\nIt’s interesting how the rest of the leaf was unchanged by it added this extra leaf on the side, I didn’t expect that!\nI made one final leaf by changing the color to lightcyan and altering the code like this:\n{axiom=“X”} rules=list(“X”=“F-[[X]+X]+F[+FX]-X”, “F”=“FF+1”) angle=23 depth=7\nI changed the angle to 23, but also the depth to 7 and added +1 to “F” in the axiom variable. The result was shocking:\n\n\n\nLight Cyan Leaf\n\n\nIt’s amazing how a simple change can produce such large effects!"
   },
